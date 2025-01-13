@@ -50,3 +50,6 @@ This project provided valuable insights into workforce layoffs, including:
 Trends over the years and their correlation with economic events.
 Impact of funding levels on layoffs.
 Industries and company stages most vulnerable to layoffs.
+
+
+![image alt](https://github.com/mohamedanwar10/Layoff-analysis-report/blob/ce489a685525c4d960e16d188db53e6efec8385b/Report%20Image.png)  
